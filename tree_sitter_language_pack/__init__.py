@@ -3,7 +3,7 @@ from __future__ import annotations
 from importlib import import_module
 from typing import Literal, cast
 
-import tree_sitter_c_sharp
+# import tree_sitter_c_sharp
 import tree_sitter_embedded_template
 import tree_sitter_yaml
 from tree_sitter import Language, Parser
